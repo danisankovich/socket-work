@@ -1,0 +1,16 @@
+{
+  "name": "sockets chat-test for anime",
+  "version": "1.0.0",
+  "description": "Chat app, express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Sankovich",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.4"
+  }
+}
